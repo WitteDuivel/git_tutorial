@@ -9,4 +9,9 @@ while (num := input(">>> ")) != "q":
     the_nums.append(num)
 
 print(add_nums(the_nums))
+<<<<<<< HEAD
 print("---Session Ended---")
+=======
+
+print("quitting...")
+>>>>>>> main-addsum
